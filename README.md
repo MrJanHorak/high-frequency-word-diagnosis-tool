@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# High Frequency Word Diagnosis Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### A quick summary of why I am working on this tool:
 
-## Available Scripts
+My wife is a 2nd grade teacher in a public school. She has several students who have some difficulty reading. This problem has been amplified considering when these students were in Kindergarten, the pandemic hit and schools went to learning from home. Several of her students may not have had the opportunity to make use of online tools to keep up with learning. Now in second grade, this has become the first year they are fully back in school. Standards expect students to be at 2nd grade level, realistically educationally many of the students are still in Kindergarten. Not to thier fault or the fault of the schools. 
 
-In the project directory, you can run:
+To help teachers (or in this case at least specifically one specific one) better track students and help students close the 'COVID-Learning-Gap' this App is being created.
 
-### `npm start`
+## Follow along on Trello, or join in and help create the tool!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### [Project Trello board](https://trello.com/b/Ks4PxVKY/sight-word-diagnosis-tool)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+More info will come as I find time to work on this. 
 
-### `npm test`
+## Next steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- ERD
+- WireFrames
+- Determining Word lists
+- creating user account
+- creating data models
+- create student progress tracking
+- and much more
